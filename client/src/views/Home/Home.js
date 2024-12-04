@@ -1,11 +1,15 @@
+
+import Navbar from "../../components/Navbar/Navbar";
 import "./Home.css"
 
 const Home = () => {
   return (
     <>
-    <h1>you are in home page</h1>
+  
+    <Navbar/>
+    <h1 className="text-bold">you are in home page</h1>
     </>
   )
-}
+} 
 
-export default Home
+export default Home ;
