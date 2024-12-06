@@ -5,19 +5,12 @@ import MainCarouselData from '../../../data.js/MainCarouselData';
 
 const MainCarousel = () => {
 
-    const responsive = {
-        0: { items: 1 },
-        568: { items: 2 },
-        1024: { items: 1 },
-    };
-
-
 
     const items = MainCarouselData.map((item) => (
         <img 
             src={item.img} 
             alt="" 
-            className="cursor-pointer w-50" 
+            className="cursor-pointer object-cover w-full h-96 " 
             role="presentation" 
         />
     ));
@@ -25,11 +18,12 @@ const MainCarousel = () => {
     return (
         <AliceCarousel
             items={items}
-            responsive={responsive}
+          
             controlsStrategy="alternate"
             autoPlay
             autoPlayInterval={1000}
             infinite
+            disableButtonsControls
         />
     );
     
