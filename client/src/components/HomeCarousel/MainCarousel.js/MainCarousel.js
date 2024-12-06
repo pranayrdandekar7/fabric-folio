@@ -10,7 +10,7 @@ const MainCarousel = () => {
         <img 
             src={item.img} 
             alt="" 
-            className="cursor-pointer object-cover w-full h-96 " 
+            className="cursor-pointer object-cover w-full h-96  " 
             role="presentation" 
         />
     ));
