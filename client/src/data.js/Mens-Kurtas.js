@@ -28,7 +28,7 @@ const MENS_KURTAS = [
         "description": "Typically made from natural fabrics like cotton and silk, these kurtas often feature traditional patterns such as paisleys and florals."
     },
     {
-        "imgUrl": "https://example.com/kurtas/blue.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_BxTWSrAE-OE_2SKMWLkoYcTCUTTv9PLs_Q&s",
         "brand": "Ethnic Charm",
         "title": "Men Solid Blue Cotton Kurta",
         "color": "Blue",
@@ -55,7 +55,7 @@ const MENS_KURTAS = [
         "description": "A modern and elegant solid kurta designed for casual and festive occasions."
     },
     {
-        "imgUrl": "https://example.com/kurtas/red.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKFO-Yd1vRZHXv0g3uILswitiI0FVV_QX2A&s",
         "brand": "Royal Threads",
         "title": "Men Traditional Embroidered Kurta",
         "color": "Red",
@@ -82,7 +82,7 @@ const MENS_KURTAS = [
         "description": "This kurta features intricate embroidery, perfect for weddings and festive gatherings."
     },
     {
-        "imgUrl": "https://example.com/kurtas/black.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aujxjOj9yd14APcfw9-jt_10t7WicxCdoQ&s",
         "brand": "Elegant Wear",
         "title": "Men Black Linen Straight Kurta",
         "color": "Black",
@@ -109,7 +109,7 @@ const MENS_KURTAS = [
         "description": "Crafted with high-quality linen fabric, this kurta is stylish and comfortable."
     },
     {
-        "imgUrl": "https://example.com/kurtas/white.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXFMwTEMffivW-otgTFhdR3CH_uszG8z9_A&s",
         "brand": "Cultural Style",
         "title": "Men White Long Cotton Kurta",
         "color": "White",
@@ -136,7 +136,7 @@ const MENS_KURTAS = [
         "description": "A classic white kurta that blends simplicity and tradition effortlessly."
     },
     {
-        "imgUrl": "https://example.com/kurtas/yellow.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SG8pJOkLwoQO7kBFu7hNKy0sLM1ZXFHi6w&s",
         "brand": "Festive Aura",
         "title": "Men Yellow Printed Kurta",
         "color": "Yellow",
@@ -163,7 +163,7 @@ const MENS_KURTAS = [
         "description": "Bright and vibrant, this kurta features traditional prints and a comfortable fit."
     },
     {
-        "imgUrl": "https://example.com/kurtas/grey.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfprN0d4XqEIx307e9M-rKDVTA7jSTu7W7uw&s",
         "brand": "Modern Classics",
         "title": "Men Grey Cotton Straight Kurta",
         "color": "Grey",
@@ -190,7 +190,7 @@ const MENS_KURTAS = [
         "description": "Simple yet stylish, this kurta is ideal for casual outings and everyday wear."
     },
     {
-        "imgUrl": "https://example.com/kurtas/cream.jpg",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DaqlY1cdxzrB89DLVe1V2P1fHrTAj1ug0g&s",
         "brand": "Heritage Couture",
         "title": "Men Cream Designer Kurta",
         "color": "Cream",
