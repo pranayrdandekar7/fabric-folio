@@ -2,7 +2,7 @@ import React from 'react'
 
 const HomeProductCard = () => {
   return (
-    <div className='cursor-pointer flex flex-col items-center bg-white my-3 rounded-lg overflow-hidden shadow-lg w-[15rem]  mx-3'>
+    <div className='cursor-pointer flex flex-col items-center bg-white mb-3 rounded-lg overflow-hidden shadow-lg w-[15rem] border mx-3 p-4'>
         <div className='w-[13rem] h-[10rem] '>
          <img src='https://5.imimg.com/data5/SELLER/Default/2022/6/JQ/MY/GN/47089444/whatsapp-image-2022-06-25-at-7-46-21-pm-2--500x500.jpeg' alt='mens cotten kurta' className='object-cover object-top w-full h-full rounded-lg'   />
 

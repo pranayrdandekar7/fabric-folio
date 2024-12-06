@@ -11,6 +11,8 @@ const Home = () => {
     <Navbar/>
     <MainCarousel/>
     <HomeSectionCarousel/>
+    <HomeSectionCarousel/>
+    <HomeSectionCarousel/>
     <h1 className="text-bold">you are in home page</h1>
     </>
   )
