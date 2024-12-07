@@ -18,8 +18,18 @@ const HomeSectionCarousel = () => {
         1024: { items: 5 },
     };
 
-    const slidePrev = () => setActiveIndex(activeIndex - 1);
-    const slideNext = () => setActiveIndex(activeIndex + 1);
+    const slidePrev = () => {
+        const firstElement = MENS_KURTAS[0]
+        MENS_KURTAS.shift()
+        MENS_KURTAS.push(firstElement)
+        setActiveIndex(activeIndex - 1)
+    };
+    const slideNext = () =>{
+        const lastElement = MENS_KURTAS[MENS_KURTAS.length-1]
+        MENS_KURTAS.pop()
+        MENS_KURTAS.unshift(lastElement)
+        setActiveIndex(activeIndex + 1)
+    };
 
     const syncActiveIndex = ({ item }) => setActiveIndex(item)
 
@@ -38,13 +48,15 @@ const HomeSectionCarousel = () => {
                     activeIndex={activeIndex}
                 />
             </div>
-            { activeIndex !== items.length - 5 && <button className=" border-2 py-3 px-1  rounded-md absolute top-24 left-4 bg-teal-300  hover:bg-white" onClick={slidePrev}>
+            { activeIndex >=5  ? ( <button className=" border-2 py-3 px-1  rounded-md absolute top-24 left-4 bg-teal-300  hover:bg-white" onClick={slidePrev}>
                 <KeyboardArrowLeftIcon />
-            </button>
+            </button>) : null
             }
-            <button className=" border-2 py-3 px-1  rounded-md absolute top-24 right-2 bg-teal-300 hover:bg-white" onClick={slideNext}>
+           {activeIndex !=7 ? (<button className=" border-2 py-3 px-1  rounded-md absolute top-24 right-2 bg-teal-300 hover:bg-white" onClick={slideNext}>
                 <KeyboardArrowRightIcon />
-            </button>
+            </button>):null }
+
+            
 
         </div>
     )
