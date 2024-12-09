@@ -1,7 +1,7 @@
 
 const MENS_KURTAS = [
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitpylYk6oYqOUa-Q43Xs4cIjCgPK9HyodOw&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwiJb9nqDkBFByeqDtZ6iu2UpYPp1WX0iPA&s",
         "brand": "Majestic Man",
         "title": "Men Printed Pure Cotton Straight Kurta",
         "color": "Green",
