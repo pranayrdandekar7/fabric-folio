@@ -1,4 +1,5 @@
 
+import { Footer } from "../../components/Footer/Footer";
 import MainCarousel from "../../components/HomeCarousel/MainCarousel.js/MainCarousel";
 import HomeSectionCarousel from "../../components/HomeSectionCarousel/HomeSectionCarousel";
 import Navbar from "../../components/Navbar/Navbar";
@@ -22,7 +23,7 @@ const Home = () => {
         <HomeSectionCarousel data={WOMENS_KURTAS} sectionName={"WOMEN'S KURTA"} />
 
       </div>
-      <h1 className="text-bold">you are in home page</h1>
+      <Footer/>
     </>
   )
 }

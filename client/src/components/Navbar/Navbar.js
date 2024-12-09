@@ -1,6 +1,7 @@
 'use client'
 
 import { Fragment, useState } from 'react'
+import logo from "./logo.png"
 import {
   Dialog,
   DialogBackdrop,
@@ -286,13 +287,14 @@ export default function Navbar() {
               </button>
 
               {/* Logo */}
-              <div className="ml-4 flex lg:ml-0">
+              <div className="ml-4 flex lg:ml-0 ">
                 <a href="#">
                   <span className="sr-only">Your Company</span>
                   <img
-                    alt=""
-                    src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
-                    className="h-8 w-auto"
+                    alt="logo"
+                    src={logo}
+                    className="h-10 w-auto rounded-md"
+
                   />
                 </a>
               </div>
