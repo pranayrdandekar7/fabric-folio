@@ -18,16 +18,16 @@ const HomeSectionCarousel = ({ data = [], sectionName }) => {
     };
 
     const slidePrev = () => {
-        const lastElement = MENS_KURTAS[MENS_KURTAS.length - 1]
-        MENS_KURTAS.pop()
-        MENS_KURTAS.unshift(lastElement)
+        const lastElement = data[data.length - 1]
+        data.pop()
+        data.unshift(lastElement)
         setActiveIndex(activeIndex - 1)
     };
 
     const slideNext = () => {
-        const firstElement = MENS_KURTAS[0]
-        MENS_KURTAS.shift()
-        MENS_KURTAS.push(firstElement)
+        const firstElement = data[0]
+        data.shift()
+        data.push(firstElement)
         setActiveIndex(activeIndex + 1)
     };
 

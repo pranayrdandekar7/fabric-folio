@@ -1,6 +1,6 @@
 const WOMENS_KURTAS = [
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPH9PQH77aezpA4cysrUuIAUwfgjRtJZMSA&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSXCa__JsVQVusIz4uFhYm9AB_QZgUjjR9A&s",
         "brand": "Graceful Vogue",
         "title": "Women Printed Rayon Anarkali Kurta",
         "color": "Pink",
@@ -31,7 +31,7 @@ const WOMENS_KURTAS = [
         "description": "Elegant Anarkali kurta with intricate floral prints, perfect for festive occasions."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Fjqy7skjWQRL_uOYjL8QBGW0Kj4A5SIS9Q&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiNXRymBQygYq5gC3lR8UzTa1vsc_dz2sVA&s",
         "brand": "Ethnic Elegance",
         "title": "Women Solid Straight Cotton Kurta",
         "color": "Blue",
@@ -62,7 +62,7 @@ const WOMENS_KURTAS = [
         "description": "Simple and comfortable straight kurta ideal for casual and office wear."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Cm9R6NzzZyuhsTLrKlPIAJea5VD5QLcErA&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0og96UvAkfdDHI1aS09olCDnQVpzNn4Jw&s",
         "brand": "Tradition Weave",
         "title": "Women Embroidered Cotton Kurta",
         "color": "White",
@@ -93,7 +93,7 @@ const WOMENS_KURTAS = [
         "description": "Delicate embroidery on pure cotton fabric, perfect for summer days."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCiXO2tNUT-yIHMSNtb_5zgWjBuV8zD07DJg&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC318j6CN2caTxXJRiF7C93mxJQVunMqde6A&s",
         "brand": "Fusion Trends",
         "title": "Women A-Line Printed Rayon Kurta",
         "color": "Yellow",
@@ -124,7 +124,7 @@ const WOMENS_KURTAS = [
         "description": "Bright and cheerful, this A-line kurta is a great pick for casual outings."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YRvORjqPvlH_EReO5_7VIsZmEAsOSYjJ7Q&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNP_rx88fjMDjOBsZpu4NFNqYIllIuz75Cg&s",
         "brand": "Elegant Drapes",
         "title": "Women Black Long Flared Kurta",
         "color": "Black",
@@ -155,7 +155,7 @@ const WOMENS_KURTAS = [
         "description": "Stylish and sophisticated black flared kurta for evening parties and events."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRS9OpxRxFgIdmsjyYWpQSRG7ME-B5WZKjQ&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4rfyAbcPmkwfVszLR73pbbKinBEvB7jOWQ&s",
         "brand": "Cultural Grace",
         "title": "Women Red Chikankari Kurta",
         "color": "Red",
@@ -186,7 +186,7 @@ const WOMENS_KURTAS = [
         "description": "Traditional Chikankari embroidery with a contemporary design for festive wear."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQphRPXYGZ1m4QXw8q9Hikm11cFz1F34ddLg&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_TK3e1nYcOj1RSNy-GSJM-b9vuCOpCoiZg&s",
         "brand": "Boho Chic",
         "title": "Women Sleeveless Printed Cotton Kurta",
         "color": "Green",
@@ -217,7 +217,7 @@ const WOMENS_KURTAS = [
         "description": "Casual sleeveless kurta with vibrant prints, perfect for summer days."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNNh0aEFU_qUC62iFflR2HyLxdAZ2Z9nSZg&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYF96BdBoOt4E8UjMRvwDBz5oc18PqdbZLg&s",
         "brand": "Urban Ethnic",
         "title": "Women Blue High-Low Rayon Kurta",
         "color": "Blue",
@@ -248,7 +248,7 @@ const WOMENS_KURTAS = [
         "description": "Trendy high-low design in soft rayon fabric for a chic look."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H_MfZ1oi9wN-rgAG47R-LIYje4z7TTztNg&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dhokLsFRq8M5SfdgAICc-k3aKb35A7KKQg&s",
         "brand": "Fusion Belle",
         "title": "Women Floral Cotton Asymmetric Kurta",
         "color": "White",
@@ -279,7 +279,7 @@ const WOMENS_KURTAS = [
         "description": "Asymmetric kurta with floral patterns and a modern silhouette."
     },
     {
-        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsLD6ImqFddrVhPLchJbtxlTxJXYvZlNJzg&s",
+        "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAKvAGX5lUb9VaMMlzc_n8px6N-aJbG1MjA&s",
         "brand": "Classic Styles",
         "title": "Women Yellow Angrakha Style Kurta",
         "color": "Yellow",
