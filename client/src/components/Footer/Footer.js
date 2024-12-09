@@ -49,7 +49,7 @@ export const Footer = () => {
               <li><a href="#" class="hover:text-blue-400">What Is Flex And When to Use It?</a></li>
               <li><a href="#" class="hover:text-blue-400">How TailwindCSS Can Help Your Productivity?</a></li>
               <li><a href="#" class="hover:text-blue-400">5 Tips to Make Responsive Website</a></li>
-              <li><a href="#" class="hover:text-blue-400">See More</a></li>
+              <li><a href="#" class="hover:text-blue-400 ">See More</a></li>
             </ul>
           </div>
           <div class="px-4 my-4 w-full sm:w-auto xl:w-1/5">
