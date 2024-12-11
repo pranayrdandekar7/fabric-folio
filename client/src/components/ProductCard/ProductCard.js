@@ -3,9 +3,9 @@ import "./ProductCard.css"
 
 const ProductCard = ({product}) => {
   return (
-    <div className=' productCard w-[15rem] m-3 transition-all cursor-pointer '>
+    <div className=' productCard w-[15rem] m-3 transition-all cursor-pointer rounded '>
       <div className='h-[18 rem] w-full object-cover '>
-        <img src={product.imgUrl} className=' w-full ' alt='product-image' />
+        <img src={product.imgUrl} className=' w-full rounded ' alt='product-image' />
       </div>
       <div className='textpart p-1'>
         <div>
