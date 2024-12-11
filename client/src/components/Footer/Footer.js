@@ -8,7 +8,7 @@ export const Footer = () => {
         <div class="-mx-4 flex flex-wrap justify-between">
           <div class="px-4 my-4 w-full xl:w-1/5">
             <a href="/" class="block w-56 mb-10">
-              <svg version="1.1" viewBox="0 0 3368 512" xmlns="http://www.w3.org/2000/svg">
+              <svg version="1.1" viewBox="0 0 3368 512" >
                 <g fill="none" fill-rule="evenodd">
                   <g transform="translate(0 -75)">
                     <g transform="translate(0 75)">

@@ -4,6 +4,7 @@ import './index.css';
 import {createBrowserRouter,RouterProvider} from "react-router-dom"
 import Home from './views/Home/Home';
 import Navbar from './components/Navbar/Navbar.js';
+import ProductPage from './views/ProductPage/ProductPage.js';
 
 
 
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
   {
     path:"/navbar",
     element:<Navbar/>
+  },
+  {
+    path:"/product-page",
+    element:<ProductPage/>
   }
  
 ])

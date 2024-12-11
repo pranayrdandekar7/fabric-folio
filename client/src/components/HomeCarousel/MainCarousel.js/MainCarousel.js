@@ -18,7 +18,6 @@ const MainCarousel = () => {
     return (
         <AliceCarousel
             items={items}
-          
             controlsStrategy="alternate"
             autoPlay
             autoPlayInterval={1000}

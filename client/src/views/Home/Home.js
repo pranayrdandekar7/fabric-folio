@@ -1,4 +1,5 @@
 
+
 import { Footer } from "../../components/Footer/Footer";
 import MainCarousel from "../../components/HomeCarousel/MainCarousel.js/MainCarousel";
 import HomeSectionCarousel from "../../components/HomeSectionCarousel/HomeSectionCarousel";
@@ -24,6 +25,7 @@ const Home = () => {
 
       </div>
       <Footer/>
+    
     </>
   )
 }

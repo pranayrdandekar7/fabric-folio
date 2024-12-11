@@ -3,7 +3,7 @@ import AliceCarousel from 'react-alice-carousel'
 import HomeProductCard from '../HomeProductCard/HomeProductCard';
 import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
-import MENS_KURTAS from '../../data.js/Mens-Kurtas';
+
 
 
 const HomeSectionCarousel = ({ data = [], sectionName }) => {
