@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Footer = () => {
+  export const Footer = () => {
   return (
     <footer>
     <div class="bg-gray-800 py-4 text-gray-400">
@@ -102,3 +102,4 @@ export const Footer = () => {
   </footer>
   )
 }
+
